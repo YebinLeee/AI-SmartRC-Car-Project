@@ -3,7 +3,7 @@ import time
 
 GPIO.setmode(GPIO.BCM)
 
-leds = [5,6,7,8] # 리스트를 leds를 5-8번 핀으로 초기화
+leds = [5,6,7,8] # 리스트 leds를 5~8번 핀으로 초기화
 
 # 각 핀을 GPIO를 출력한 뒤 off
 for led in leds:
