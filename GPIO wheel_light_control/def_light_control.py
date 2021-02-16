@@ -1,3 +1,6 @@
+# RPi.GPIO 모듈을 이용하여 leds 리스트에 저장돼 있는 led(핀번호 5~8)를 조작하는 함수들을 정의한 패키지이다.
+
+
 import RPi.GPIO as GPIO
 import time
 
