@@ -1,3 +1,6 @@
+# RPi.GPIO 모듈을 이용하여 dcMotors 리스트에 저장돼 있는 wheel(핀번호 총 8개- 방향과 위치에 따라 이미 설정돼있음)를 조작하는 함수들을 정의한 패키지이다.
+
+
 import RPi.GPIO as GPIO
 
 def left_front_forward(dcMotors) :
