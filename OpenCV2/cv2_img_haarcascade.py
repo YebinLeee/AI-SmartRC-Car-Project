@@ -1,4 +1,5 @@
-# haarcascade_frontalface_default.xml 파일 이용해 얼굴 인식
+# 이미지 내에서 얼굴 인식
+# haarcascade_frontalface_default.xml 파일 (github.com/oepncv/oepencv/data) 
 
 import cv2
 
