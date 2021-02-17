@@ -1,5 +1,5 @@
-# haarcascade_frontalface_default.xml 파일 이용해 얼굴 인식
-# github.com/opencv/opencv/data
+# OpenCV를 이용한 얼굴 인식
+# haarcascade_frontalface_default.xml 파일 이용해 얼굴 인식 (github.com/opencv/opencv/data)
 
 import cv2
 
