@@ -1,5 +1,5 @@
 # OpenCV를 이용한 얼굴의 측면 인식(얼굴+눈 인식)
-# haarcascade_eye.xml 파일 추가 (https://github.com/opencv/opencv/data/haarcascade/ haarcascade_eye.xml)
+# haarcascade_eye.xml 파일 추가 (https://github.com/opencv/opencv/data/haarcascades/haarcascade_eye.xml)
 import cv2
 
 img=cv2.imread('photo.jpg')
