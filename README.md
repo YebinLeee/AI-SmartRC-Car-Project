@@ -5,4 +5,4 @@ A project to make an AI RC Smart Car made by RaspberryPi 3 Model B+, controlled 
 
 <br><br>
 
-<img src="https://github.com/YebinLeee/AI-SmartRC-Car-Project/blob/main/SmartCar-sketch.jpg?raw=true" width="500"></img>>
+<img src="https://github.com/YebinLeee/AI-SmartRC-Car-Project/blob/main/SmartCar-sketch.jpg?raw=true" width="500"></img>
